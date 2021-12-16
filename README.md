@@ -1,2 +1,2 @@
-# some-git-commands
+# some-git-commands 💻
 alguns comandos git
